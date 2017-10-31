@@ -8,3 +8,5 @@ Forks the codeigniter-boilerplate Git Repository in an empty Repository
 3. Change to new DIR ( cd new-repository )
 4. Add codeigniter-boilerplate.sh to Dir
 5. Run Command: bash codeigniter-boilerplate.sh
+
+To Pull Changes from Original: git pull sync master
